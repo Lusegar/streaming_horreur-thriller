@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<racine>
+    <president>
+        <image> ./sources/0.jpeg</image>
+        <nom>Charles de Gaulles</nom>
+        <mandat>1959-1969</mandat>
+        <naissance>1890</naissance>
+        <status>1970</status>
+    </president>
+    <president>
+        <image> ./sources/1.jpeg</image>
+        <nom>George Pompidou</nom>
+        <mandat>1969-1974</mandat>
+        <naissance>1911</naissance>
+        <status>1974</status>
+    </president>
+    <president>
+        <image> ./sources/2.jpeg</image>
+        <nom>Valerie Giscard Estaing</nom>
+        <mandat>1974-1981</mandat>
+        <naissance>1926</naissance>
+        <status>2020</status>
+    </president>
+    <president>
+        <image> ./sources/3.jpeg</image>
+        <nom>François Mitterand</nom>
+        <mandat>1981-1995</mandat>
+        <naissance>1890</naissance>
+        <status>1970</status>
+    </president>
+    <president>
+        <image> ./sources/4.jpeg</image>
+        <nom>Jacques Chirac</nom>
+        <mandat>1995-2007</mandat>
+        <naissance>1932</naissance>
+        <status>2019</status>
+    </president>
+    <president>
+        <image> ./sources/5.jpeg</image>
+        <nom>Nicolas Sarkozy</nom>
+        <mandat>2007-2012</mandat>
+        <naissance>1955</naissance>
+        <status>vivant</status>
+    </president>
+    <president>
+        <image> ./sources/6.jpeg</image>
+        <nom>François Hollande</nom>
+        <mandat>2012-2017</mandat>
+        <naissance>1954</naissance>
+        <status>vivant</status>
+    </president>
+    <president>
+        <image> ./sources/7.jpeg</image>
+        <nom>Emmanuel Macron</nom>
+        <mandat>2017-aujourd'hui</mandat>
+        <naissance>1976</naissance>
+        <status>Trop jeune</status>
+    </president>
+</racine>

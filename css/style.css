@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100;200;300&display=swap');
+
+html{
+	font-size: 62.5%;
+}
+body{
+	display: grid;
+	font: 1.6rem 'Open Sans',sans-serif;
+	background-color: #222;
+	color: #fcfafa;
+}
+ul{
+	width: 60rem;
+	margin: 0 auto;
+	line-height:2.5rem;
+	background:#7f7f7f;
+	color: #fbfafa;
+}
+li{
+	list-style: none;
+}
+h1{
+	font-weight:300;
+	text-align: center;
+}
+img{
+    display: flex;
+    width: 30%;
+    height: 30%;
+    object-fit: cover;
+    vertical-align: middle;
+}
+footer{
+	text-align: center;
+}
