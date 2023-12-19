@@ -12,7 +12,7 @@ body{
 ul{
 	width: 60rem;
 	margin: 0 auto;
-	line-height:2.5rem;
+	line-height:2rem;
 	background:#7f7f7f;
 	color: #fbfafa;
 }
@@ -20,15 +20,12 @@ li{
 	list-style: none;
 }
 h1{
-	font-weight:300;
+	font-weight:3000;
 	text-align: center;
 }
 img{
-    display: flex;
     width: 30%;
     height: 30%;
-    object-fit: cover;
-    vertical-align: middle;
 }
 footer{
 	text-align: center;
